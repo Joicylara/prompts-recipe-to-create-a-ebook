@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório é um fork do projeto desenvolvido durante o curso de Introdução a Engenharia de Prompts da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este repositório é um fork do repositório do [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook), que é instrutor do curso sobre Criar um Ebook com ChatGPT, que foi um projeto de desafio desenvolvido durante o curso de Introdução a Engenharia de Prompts da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
